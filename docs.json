@@ -9,23 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": [
-      {
-        "group": "Introduction",
-        "pages": [
-          "index",
-          "contacts"
-        ]
-      },
-      {
-        "group": "Our Services",
-        "pages": [
-          "minecraft-hosting",
-          "generic-hosting",
-          "private-hosting"
-        ]
-      }
-    ],
     "global": {
       "anchors": [
         {
@@ -39,7 +22,24 @@
           "icon": "table-tennis-paddle-ball"
         }
       ]
-    }
+    },
+    "groups": [
+      {
+        "group": "INTRODUCTION",
+        "pages": [
+          "index",
+          "contacts"
+        ]
+      },
+      {
+        "group": "OUR SERVICES",
+        "pages": [
+          "services/minecraft-hosting",
+          "services/generic-hosting",
+          "services/private-hosting"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/dark.svg",
