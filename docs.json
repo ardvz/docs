@@ -38,20 +38,15 @@
     "dark": "/logo/white.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@hostgate.my.id"
-      }
-    ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Home",
       "href": "https://hostgate.my.id/dashboard"
     }
   },
   "footer": {
     "socials": {
+      "discord": "https://hostgate.my.id/discord",
       "github": "https://github.com/ardvz"
     }
   }
