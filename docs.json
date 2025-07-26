@@ -45,6 +45,14 @@
           "services/generic-hosting",
           "services/private-hosting"
         ]
+      },
+      {
+        "group": "LEGAL",
+        "pages": [
+          "legal/terms",
+          "legal/policy",
+          "legal/sourcecode"
+        ]
       }
     ]
   },
