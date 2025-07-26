@@ -71,11 +71,6 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
           "anchor": "Community",
           "href": "https://mintlify.com/community",
           "icon": "slack"
@@ -96,13 +91,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@hostgate.my.id"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://hostgate.my.id/dashboard"
     }
   },
   "footer": {
