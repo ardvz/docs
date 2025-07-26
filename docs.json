@@ -4,8 +4,8 @@
   "name": "HostGate",
   "colors": {
     "primary": "#00D4FF",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#0092B0",
+    "dark": "#125663"
   },
   "favicon": "/favicon.svg",
   "navigation": {
