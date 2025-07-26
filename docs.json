@@ -28,14 +28,14 @@
         "group": "INTRODUCTION",
         "pages": [
           "index",
-          "contacts",
-          {
-            "group": "ABOUT SERVICES",
-            "pages": [
-              "about/hardware",
-              "about/payment"
-            ]
-          }
+          "contacts"
+        ]
+      },
+      {
+        "group": "ABOUT SERVICES",
+        "pages": [
+          "about/hardware",
+          "about/payment"
         ]
       },
       {
