@@ -32,6 +32,13 @@
         ]
       },
       {
+        "group": "ABOUT SERVICES",
+        "pages": [
+          "about/hardware",
+          "about/payment"
+        ]
+      },
+      {
         "group": "OUR SERVICES",
         "pages": [
           "services/minecraft-hosting",
