@@ -16,6 +16,14 @@
           "index",
           "contacts"
         ]
+      },
+      {
+        "group": "Our Services",
+        "pages": [
+          "minecraft-hosting",
+          "generic-hosting",
+          "private-hosting"
+        ]
       }
     ],
     "global": {
