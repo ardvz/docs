@@ -26,9 +26,9 @@
           "icon": "earth-americas"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Network Status",
+          "href": "https://status.hostgate.my.id",
+          "icon": "table-tennis-paddle-ball"
         }
       ]
     }
