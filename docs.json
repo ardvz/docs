@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "HostGate",
   "colors": {
-    "primary": "#00d4ff",
+    "primary": "#00363f",
     "light": "#008aa5",
-    "dark": "#00363f"
+    "dark": "#00d9ff"
   },
   "favicon": "/favicon.svg",
   "navigation": {
