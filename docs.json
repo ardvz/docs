@@ -82,7 +82,7 @@
   "navbar": {
     "primary": {
       "type": "button",
-      "label": "Home",
+      "label": "Dashboard",
       "href": "https://hostgate.my.id/dashboard"
     }
   },
