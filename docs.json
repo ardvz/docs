@@ -9,6 +9,55 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "tabs": [
+      {
+        "tab": "Documetation",
+        "groups": [
+          {
+            "group": "INTRODUCTION",
+            "pages": [
+              "docs/index",
+              "docs/contacts"
+            ]
+          },
+          {
+            "group": "ABOUT SERVICES",
+            "pages": [
+              "about/hardware",
+              "about/payment"
+            ]
+          },
+          {
+            "group": "OUR SERVICES",
+            "pages": [
+              "services/minecraft-hosting",
+              "services/generic-hosting",
+              "services/private-hosting"
+            ]
+          },
+          {
+            "group": "LEGAL",
+            "pages": [
+              "legal/terms",
+              "legal/policy",
+              "legal/sourcecode"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "INTRODUCTION",
+            "pages": [
+              "guides/index",
+              "guides/contacts"
+            ]
+          }
+        ]
+      }
+    ],
     "global": {
       "anchors": [
         {
@@ -22,39 +71,7 @@
           "icon": "wifi"
         }
       ]
-    },
-    "groups": [
-      {
-        "group": "INTRODUCTION",
-        "pages": [
-          "index",
-          "contacts"
-        ]
-      },
-      {
-        "group": "ABOUT SERVICES",
-        "pages": [
-          "about/hardware",
-          "about/payment"
-        ]
-      },
-      {
-        "group": "OUR SERVICES",
-        "pages": [
-          "services/minecraft-hosting",
-          "services/generic-hosting",
-          "services/private-hosting"
-        ]
-      },
-      {
-        "group": "LEGAL",
-        "pages": [
-          "legal/terms",
-          "legal/policy",
-          "legal/sourcecode"
-        ]
-      }
-    ]
+    }
   },
   "logo": {
     "light": "/logo/dark.svg",
