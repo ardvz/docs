@@ -11,14 +11,14 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "Knowledgebase",
-        "icon": "book",
+        "dropdown": "Home",
+        "icon": "house",
         "groups": [
           {
             "group": "INTRODUCTION",
             "pages": [
-              "knowledgebase/index",
-              "knowledgebase/contacts"
+              "home/index",
+              "home/contacts"
             ]
           },
           {
@@ -48,7 +48,7 @@
       },
       {
         "dropdown": "Guides",
-        "icon": "sparkles",
+        "icon": "book",
         "groups": [
           {
             "group": "INTRODUCTION",
