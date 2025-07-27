@@ -53,8 +53,16 @@
           {
             "group": "INTRODUCTION",
             "pages": [
-              "guides/index",
-              "guides/contacts"
+              "guides/index"
+            ]
+          },
+          {
+            "group": "GUIDES",
+            "pages": [
+              "guides/custom-domain",
+              "guides/change-version",
+              "guides/allow-crack-account",
+              "guides/setup-geyser"
             ]
           }
         ]
