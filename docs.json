@@ -9,9 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "dropdowns": [
       {
-        "tab": "Documetation",
+        "dropdown": "Documetation",
         "groups": [
           {
             "group": "INTRODUCTION",
@@ -46,7 +46,7 @@
         ]
       },
       {
-        "tab": "Guides",
+        "dropdown": "Guides",
         "groups": [
           {
             "group": "INTRODUCTION",
